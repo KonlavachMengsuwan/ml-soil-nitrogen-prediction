@@ -140,5 +140,9 @@ This project was created by **Konlavach Mengsuwan** as a way to showcase hands-o
 
 ---
 
+## Dataset: 
+https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset?resource=download
+## Code:
+https://colab.research.google.com/drive/1vcp-OTKDiZu8g6UI-apaKFocajOJt549?usp=sharing
 
 
