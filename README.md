@@ -39,7 +39,7 @@ Soil nitrogen is a critical nutrient that supports plant growth and affects agri
 
 ### Step 2: Models Compared
 We evaluated six different regression models:
-
+```
 | Model             | Type                  |
 |------------------|-----------------------|
 | Linear Regression| Baseline linear model |
