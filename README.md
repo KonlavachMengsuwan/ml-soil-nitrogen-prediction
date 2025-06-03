@@ -39,7 +39,7 @@ Soil nitrogen is a critical nutrient that supports plant growth and affects agri
 
 ### Step 2: Models Compared
 We evaluated six different regression models:
-
+```
 | Model             | Type                  |
 |------------------|-----------------------|
 | Linear Regression| Baseline linear model |
@@ -48,7 +48,7 @@ We evaluated six different regression models:
 | Random Forest    | Tree ensemble model   |
 | XGBoost          | Gradient boosting     |
 | LightGBM         | Fast gradient boosting|
-
+```
 ### Step 3: Train/Test Split
 We initially used an **80/20 split** (80% training, 20% test) to simulate real-world generalization. Later, we tested 70/30 and 90/10 as well.
 
