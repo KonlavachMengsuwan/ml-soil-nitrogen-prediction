@@ -21,7 +21,7 @@ Soil nitrogen is a critical nutrient that supports plant growth and affects agri
 
 ## 📊 Dataset
 
-- **Source:** [Provided manually (Kaggle-style structure)](https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset?resource=download)
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset?resource=download)
 - **Rows:** 8000 samples  
 - **Features:**  
   - `Temparature`, `Humidity`, `Moisture` (numeric)
