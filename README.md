@@ -75,7 +75,7 @@ param_grid = {
 ## 📈 Results
 
 ### 🔬 Model Comparison (80/20 split)
-
+```
 | Model           | R² Score | RMSE    | MAE     |
 |----------------|----------|---------|---------|
 | Random Forest  | 0.8600   | 4.41    | 3.30    |
