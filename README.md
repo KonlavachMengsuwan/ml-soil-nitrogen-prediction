@@ -57,7 +57,6 @@ We initially used an **80/20 split** (80% training, 20% test) to simulate real-w
 ## ⚙️ Hyperparameter Tuning
 
 We used **`GridSearchCV`** to tune the `RandomForestRegressor`:
-```
 ```python
 param_grid = {
     'model__n_estimators': [50, 100, 200],
