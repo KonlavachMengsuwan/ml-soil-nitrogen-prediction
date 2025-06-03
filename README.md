@@ -103,7 +103,9 @@ param_grid = {
 ## 📉 Visualization
 
 The predicted nitrogen values vs. actual values were plotted to assess regression fit. Most points are close to the ideal diagonal line, confirming strong predictive accuracy.
+
 ![Predicted vs Actual Nitrogen](https://github.com/user-attachments/assets/c8b4250e-05fd-4b87-994c-96adb3c68777)
+
 
 ---
 
