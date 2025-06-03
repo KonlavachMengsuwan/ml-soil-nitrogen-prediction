@@ -84,6 +84,8 @@ param_grid = {
 | Linear Reg.    | 0.5505   | 7.91    | 6.16    |
 | Lasso          | 0.5342   | 8.05    | 6.37    |
 
+![output](https://github.com/user-attachments/assets/e9a2cb35-2caf-4811-be60-a914580f3430)
+
 ✅ **Random Forest** and **LightGBM** were the top-performing models.
 
 ---
@@ -95,6 +97,9 @@ param_grid = {
 | 90:10      | 0.8688   | 4.28   | 3.29   |
 | 80:20      | 0.8600   | 4.41   | 3.30   |
 | 70:30      | 0.8670   | 4.30   | 3.27   |
+
+![output (1)](https://github.com/user-attachments/assets/4d8fbd37-9c43-4dd2-bcf9-23b3cbd778a8)
+![output (2)](https://github.com/user-attachments/assets/c5749b8b-cdfa-4a60-bdeb-995169ed22c6)
 
 💡 The model remains **stable across data splits**, showing robustness.
 
@@ -134,5 +139,6 @@ The predicted nitrogen values vs. actual values were plotted to assess regressio
 This project was created by **Konlavach Mengsuwan** as a way to showcase hands-on machine learning expertise with tabular environmental/agricultural data. It's intended for portfolios, job applications, and educational sharing.
 
 ---
+
 
 
